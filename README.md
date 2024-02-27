@@ -9,5 +9,5 @@
   <strong> Animated Profile Card in Desktop </strong>
 </p>
 <p align="center">
-  <img src="Screenshots/.png" width="50%" alt="Gallery1.png">
+  <img src="Screenshots/1.png" width="50%" alt="Gallery1.png">
 </p>
