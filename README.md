@@ -18,3 +18,10 @@
 <p align="center">
   <img src="Screenshots/2.png" width="50%" alt="Gallery1.png">
 </p>
+
+<p align="center">
+  <strong> Animated Profile Card in Phone </strong>
+</p>
+<p align="center">
+  <img src="Screenshots/3.png" width="50%" alt="Gallery1.png">
+</p>
